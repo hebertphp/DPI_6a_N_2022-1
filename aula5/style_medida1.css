@@ -1,0 +1,24 @@
+        /* Resetar css */
+        *{
+            margin:0;
+            padding:0;
+        }
+        .tam1{
+            background: hsla(240,100%,50%,0.4);
+            width: 160px;
+            height: 160px;
+        }
+        .tam2{
+            background: hsla(0,100%,50%,0.4);
+            width: 10rem;
+            height: 10rem;
+        }
+        .tam3{
+            background: hsla(120,100%,50%,0.4);
+            width: 13vw;
+            height: 13vh;
+        }
+        .tam4{
+            background: hsla(60,100%,50%,0.4);
+            width: 13%;
+        }

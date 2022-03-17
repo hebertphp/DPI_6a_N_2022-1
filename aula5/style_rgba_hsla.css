@@ -1,0 +1,10 @@
+.cor1{ background-color: hsla(0, 100%, 50%, 0.3)} /* vermelho */
+.cor2{ background-color: rgba(0, 255, 0, 0.3); }/* verde */
+.cor3{ background-color: rgba(255, 255, 0, 0.4); } /* amarelo  */
+.cor4{ background-color: hsl(240, 100%, 75%,0.3);} /* azul escuro */
+.cor5{ background-color: hsl(240, 48%, 25%,0.5);} /* azul escuro */
+.cor6{ background-color: rgba(128, 128, 128, 0.6); } /* cinza */
+.cor7{
+    background-color: hsl(0, 0%, 0%,0.7); /* preta */
+    color: hsl(0, 0%, 100%); /* branca */
+}
