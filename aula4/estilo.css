@@ -14,7 +14,12 @@ p{
 #s3{
     color:red;
 }
-
+.fundo{
+    background-color: aqua;
+}
+.textoazul{
+    color:blue;
+}
 
 
 /*
