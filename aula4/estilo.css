@@ -1,3 +1,17 @@
+body{
+    font-family:arial;
+}
 h2{
     color:green;
 }
+h1{
+    color:yellow;
+}
+p{
+    color:magenta;
+}
+/*
+seletor{
+    propriedade:valor;
+}
+*/
