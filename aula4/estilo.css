@@ -1,5 +1,6 @@
 body{
-    font-family:arial;
+    font-family:arial;/* altera a fonte da página */
+    background-color: whitesmoke;
 }
 h2{
     color:green;
@@ -10,6 +11,12 @@ h1{
 p{
     color:magenta;
 }
+#s3{
+    color:red;
+}
+
+
+
 /*
 seletor{
     propriedade:valor;
